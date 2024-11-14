@@ -19000,39 +19000,5 @@
         "onlineStatus": "offline"
       }
     }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "Mythic"
-    },
-    {
-      "id": 2,
-      "name": "Epic"
-    },
-    {
-      "id": 3,
-      "name": "Legendary"
-    },
-    {
-      "id": 4,
-      "name": "Accessory"
-    },
-    {
-      "id": 5,
-      "name": "Shoes"
-    },
-    {
-      "id": 6,
-      "name": "Upper Body"
-    },
-    {
-      "id": 7,
-      "name": "Lower Body"
-    },
-    {
-      "id": 8,
-      "name": "Rare"
-    }
   ]
 }
